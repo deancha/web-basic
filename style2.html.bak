@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ko">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+
+
+  <link rel="stylesheet" href="./mystyle.css">
+ </head>
+
+ <body>
+	<h1 style="color:red"> 외부의 css 가져오기 </h1>
+ </body>
+</html>
